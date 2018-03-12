@@ -1,0 +1,17 @@
+body{
+    height: 100%;
+    background-image: url("/topography.png");
+}
+.box{
+    margin-top: 100px;
+}
+img{
+
+    width: 600px;
+    height: 450px;
+}
+
+.inWidth{
+    width: 50%;
+    margin: auto;
+}
